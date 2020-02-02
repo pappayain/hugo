@@ -1,0 +1,13 @@
+baseURL = "https://pappaya.in/"
+languageCode = "en-us"
+title = "പപ്പായ"
+theme = "hugo-coder"
+enableEmoji = true
+copyright = "&copy; Unnikrishnan 2018"
+[author]
+    name = "Unni"       #Author name
+    twitter = "webofunni"    #Twitter username
+    instagram = "photoofunni"  #Instagram username
+    g500px = "webofunni"
+[params]
+    tagline = "യാത്ര, സിനിമ, പടം പിടുത്തം......"
